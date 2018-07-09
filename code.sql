@@ -29,11 +29,11 @@ INSERT INTO pet (id, name, breed, age, dead)
 
 INSERT INTO pet values (1, 'Giganator', 'Robot', 1, 1);
 
-INSERT INTO person values (1, 'Logan', 'Coe', 24);
+INSERT INTO person values (1, 'Logan', 'Coe', 25);
 
 INSERT INTO pet values (2, 'Stella', 'Cat', 20, 1);
 
-INSERT INTO pet values (3, 'Scooter', 'Dog', 10, 0);
+INSERT INTO pet values (3, 'Scooter', 'Dog', 11, 0);
 
 INSERT INTO person_pet (person_id, pet_id)
   values (0, 0);
